@@ -16,12 +16,12 @@ Hay exactamente 5: Ciencia, Literatura, Ingenieria, Matematicas e Historia.
   
 **2. La función de añadir usuario permite añadir: nombre, cedula y genero favorito.**  
 ![image](https://github.com/user-attachments/assets/144476e9-7936-4713-b9d0-406c29aa9405)  
-##(Codigo)  
+(Codigo)  
 ![image](https://github.com/user-attachments/assets/77225b1d-13aa-4a9f-b06c-8b0f73cef3a9)  
   
 **3. La función de ver usuarios permite ver los usuarios existentes y sus caracteristicas.**  
 ![image](https://github.com/user-attachments/assets/d5b7bc11-798c-4a38-9926-8f29378ab2d9)  
-###(Codigo)  
+(Codigo)  
 ![image](https://github.com/user-attachments/assets/f1eeab6a-b9e0-4f14-bc90-cbf31df3719e)  
   
 (Para los siguientes no mostrare el codigo ya que es basicamente el mismo que para los dos metodos anteriores salvo que con un atributo menos)  
